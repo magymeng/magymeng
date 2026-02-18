@@ -9,8 +9,8 @@
 ## 📊 GitHub 统计卡片（实时动态）
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=magymeng&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magymeng&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 📈 访问计数器
 <!-- 每次有人访问你的主页，数字自动+1 -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F你的GitHub用户名&label=访客量&countColor=%23263759" alt="Visitors" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmagymeng&label=访客量&countColor=%23263759" alt="Visitors" />
 </p>
 
 ---
@@ -37,8 +37,8 @@
 
 - 📧 邮箱：`747145314@qq.com`
 - 💬 微信：`你的微信号`（可选）
-- 🔗 GitHub：[magymeng](https://github.com/magymeng)
-- 🔗 Gitee：[magymeng](https://gitee.com/magymeng)（如果有）
+- 🔗 GitHub：[magymeng](https://github.com/magymeng/magymeng)
+- 🔗 Gitee：[magymeng](https://gitee.com/magymeng/magymeng)（如果有）
 
 ---
 
