@@ -28,9 +28,8 @@
 ## 📈 访问计数器
 <!-- 每次有人访问你的主页，数字自动+1 -->
 <p align="center">
-  <img src="[https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmagymeng&label=访客量&countColor=%23263759](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmagymeng&label=%E8%AE%BF%E5%AE%A2%E9%87%8F&countColor=%23263759)"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=magymeng.magymeng" alt="访客量" />
 </p>
-
 ---
 
 ## 🌐 联系我 & 社交
