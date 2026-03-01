@@ -9,8 +9,8 @@
 ## 📊 GitHub 统计卡片（实时动态）
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=magymeng&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magymeng&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://my-github-stats-kappa-three.vercel.app/api?username=magymeng&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://my-github-stats-kappa-three.vercel.app/api/top-langs/?username=magymeng&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
