@@ -1,7 +1,7 @@
 #  👋 Hi there，我是BigDream
 <!-- 动态打字欢迎语（自动更新） -->
 <p align="center">
-  <img src="https://readme-typing-svg-iota.vercel.app/?font=Fira+Code&weight=600&size=24&pause=1000&color=00B8F0&center=true&vCenter=true&random=false&width=435&lines=全栈开发+%2F+开源爱好者;热爱代码+%2F+持续学习;欢迎访问我的主页！" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00B8F0&center=true&vCenter=true&random=false&width=435&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%2F+%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85;%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81+%2F+%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0;%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%EF%BC%81" alt="Typing SVG" />
 </p>
 
 ---
